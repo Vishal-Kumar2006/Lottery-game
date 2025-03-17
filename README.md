@@ -1,8 +1,54 @@
-# React + Vite
+🎰 Lottery Game
 
-Building this project gave me hands-on experience with React’s core concepts and how they work together to create dynamic applications. Looking forward to learning more about hooks, context API, and optimizing performance! 🚀
+A simple lottery game built with React + Vite to practice React fundamentals like state management, event handling, and rendering dynamic content.
 
-Currently, two official plugins are available:
+🚀 About the Game
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You get three random tickets when you click on "New Tickets".
+
+If the sum of the numbers on the tickets equals a predefined number X, you win! 🎉
+
+Otherwise, you can try again by clicking for new tickets.
+
+
+🛠 Technologies Used
+
+React.js (Component-based UI)
+
+Vite.js (Fast build tool for React)
+
+CSS (For basic styling)
+
+
+📦 Installation & Setup
+
+1. Clone the repository
+
+git clone
+******
+
+
+2. Install dependencies
+
+npm install
+******
+
+3. Run the app
+******
+
+4. Open in browser
+******
+
+
+
+📸 Screenshots
+******
+
+
+🎯 Future Improvements
+
+1. Add difficulty levels (Easy, Medium, Hard)
+
+2. Keep track of wins and attempts
+
+3. Improve UI with animations and sound effects
